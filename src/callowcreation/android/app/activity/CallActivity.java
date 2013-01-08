@@ -158,7 +158,6 @@ public class CallActivity extends Activity {
 					callContactNow(callNumber);
 
 				} catch (Exception e) {
-					// TODO Auto-generated catch block
 					//Log.d(CallActivity.class.getSimpleName(), e.getMessage());
 					Builder b = new Builder(this);
 					b.setCancelable(false);
@@ -254,10 +253,7 @@ public class CallActivity extends Activity {
 	
 	            return bitmap;
 	    } catch (Exception e) {
-	        // TODO: handle exception
-	
 	    	Log.d(CallActivity.class.getSimpleName(), e.getMessage());
-	
 	        return null;
 	    }
 
