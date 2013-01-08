@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="callname">%CALLNAME</string>
+    <string name="app_name">Just Call</string>
+    <string name="call">Call</string>
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_yes">Yes</string>
+    <string name="dialog_no">No</string>
+    <string name="dialog_text">Please select a %APP_NAME Contact.</string>
+   	<string name="dialog_call_text">%APP_NAME now?</string>
+    <string name="dialog_changing_contact_text">Changing your %APP_NAME Contact?</string>
+    <string name="dialog_not_phone_contact_text">Not a phone Contact, may be linked from a social network?  Please select a Phone %APP_NAME Contact.</string>
+</resources>
